@@ -1,6 +1,6 @@
 package reportBuilder;
 
-public class ReportBuilder {
+public class ReportBuilder extends LayoutBuilder{
 private	String DDFileName;
 private String FileName;
 private String LocalPath;

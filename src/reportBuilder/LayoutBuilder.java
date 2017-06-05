@@ -1,6 +1,6 @@
 package reportBuilder;
 
-public class LayoutBuilder {
+public class LayoutBuilder extends FormatFields{
 private int recordLength;
 
 private String line;
